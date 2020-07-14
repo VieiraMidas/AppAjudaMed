@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPreta">#000000</color>
+    <color name="colorAzulFundo">#CD5596E3</color>
+    <color name="colorBranca">#FFFFFF</color>
+    <color name="colorAzulPagina">#1d4868</color>
+</resources>
