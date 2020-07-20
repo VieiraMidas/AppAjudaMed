@@ -46,6 +46,7 @@
             android:textSize="20sp" />
 
         <EditText
+            android:id="@+id/idnome"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="25dp"
@@ -63,6 +64,7 @@
             android:textSize="20sp" />
 
         <EditText
+            android:id="@+id/idemail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="25dp"
@@ -80,6 +82,7 @@
             android:textSize="20sp" />
 
         <EditText
+            android:id="@+id/idcnpj"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="25dp"
@@ -97,6 +100,7 @@
             android:textSize="20sp" />
 
         <EditText
+            android:id="@+id/idcep"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="25dp"
@@ -114,6 +118,7 @@
             android:textSize="20sp" />
 
         <EditText
+            android:id="@+id/idlogradouro"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="25dp"
@@ -131,6 +136,7 @@
             android:textSize="20sp" />
 
         <EditText
+            android:id="@+id/idtelefone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="25dp"
@@ -148,6 +154,7 @@
             android:textSize="20sp" />
 
         <EditText
+            android:id="@+id/idsenha"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="25dp"
@@ -165,6 +172,7 @@
             android:textSize="20sp" />
 
         <EditText
+            android:id="@+id/idconfirmarsenha"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="25dp"
@@ -174,6 +182,7 @@
             android:textSize="20sp" />
 
         <Button
+            android:id="@+id/idBtnRegistrar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"
